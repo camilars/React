@@ -1,0 +1,4 @@
+Para sobrepor as divs
+É um código assim:
+<div style="position: relative;"> <div style="position: absolute; left: 40px; top: 40px;"> CUADRO 1 </div> <div style="position: absolute; left: 80px; top: 90px;"> CUADRO 2 </div> </div>
+Que um fica em cima do outro
